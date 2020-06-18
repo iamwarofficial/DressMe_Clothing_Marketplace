@@ -1,4 +1,4 @@
-# DressMe Clothing Marketplace
+# DressMe Clothing Marketplace System
 
 DressMe Clothing Marketplace (DCM) System has been created for DressMe Clothing Sdn. Bhd. Its main purpose is to place an order and view order. Doubly linked lists have been implemented using C++ programming language to build this system. The following functionalities have been implemented:
 
